@@ -1,0 +1,13 @@
+auditwheel==4.0.0
+carla @ file:///home/smarteye/Documents/carla/PythonAPI/carla/dist/carla-0.9.15-cp37-cp37m-linux_x86_64.whl
+certifi @ file:///croot/certifi_1671487769961/work/certifi
+distro==1.9.0
+importlib-metadata==6.7.0
+msgpack==1.0.5
+numpy==1.21.6
+opencv-python==4.10.0.84
+pyelftools==0.31
+pygame==2.6.1
+screeninfo==0.8.1
+typing_extensions==4.7.1
+zipp==3.15.0

@@ -1,0 +1,4 @@
+./bin/trackergui -d /dev/v4l/by-id/usb-Omnivision_Technologies__Inc._USB_Camera-OV580-video-index0 -c config/AI-X-940.json -w new_calibrated.json --serve
+
+sudo ./bin/cameracalibrationtool -d /dev/v4l/by-id/usb-Omnivision_Technologies__Inc._USB_Camera-OV580-video-index0 -c config/AI-X-940.json
+

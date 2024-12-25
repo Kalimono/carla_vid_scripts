@@ -1,0 +1,5 @@
+numpy
+msgpack
+opencv-python
+screeninfo
+pygame
